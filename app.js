@@ -18,8 +18,8 @@ Huge thanks to @Parul Prashar for making this beginner-friendly 🚀
 
 If you're starting out, THIS is your sign to begin.
 
-🔗 Check it out: [Website Link]
-🎥 Tutorial I followed: [YouTube Link]
+🔗 Check it out: https://parulprashar.github.io/Hall-of-PRs/
+🎥 Tutorial I followed: https://www.youtube.com/watch?v=DPShl8GWqS8
 
 #FirstPR #OpenSource #GitHub #LearningInPublic`;
     navigator.clipboard.writeText(text);
